@@ -1,4 +1,4 @@
-# buildpack-deps for Ubuntu ![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
+# buildpack-deps for Ubuntu ![](https://quay.io/repository/wantedly/buildpack-deps/status)
 This Dockerfile is ported from debian's buildpack-deps to Ubuntu.
 For more information about this, please see [original buildpack-deps README](https://github.com/docker-library/buildpack-deps).
 
@@ -12,4 +12,4 @@ This stack is designed to be the foundation of a language-stack image for ubuntu
 * 14.04, latest (14.04/Dockerfile)
 
 ## LICENSE
-MIT
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
