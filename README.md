@@ -9,7 +9,7 @@ This stack is designed to be the foundation of a language-stack image for ubuntu
 
 ## SUPPORTED TAGS
 
-* [14.04, latest](14.04/Dockerfile)
+* [`14.04`](14.04/Dockerfile)
 
 ## LICENSE
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
