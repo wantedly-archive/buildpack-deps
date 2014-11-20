@@ -7,8 +7,15 @@ For more information about this, please see [original buildpack-deps README](htt
 ## HOW TO USE
 This stack is designed to be the foundation of a language-stack image for ubuntu.
 
+```
+FROM quay.io/wantedly/buildpack-deps:14.04
+MAINTAINER someone <someone@example.com>
+...
+```
+
 ## SUPPORTED TAGS
 
+* [`12.04`](12.04/Dockerfile)
 * [`14.04`](14.04/Dockerfile)
 
 ## LICENSE
