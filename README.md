@@ -17,6 +17,7 @@ MAINTAINER someone <someone@example.com>
 
 * [`12.04`](12.04/Dockerfile)
 * [`14.04`](14.04/Dockerfile)
+* [`14.10`](14.10/Dockerfile)
 
 ## LICENSE
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
